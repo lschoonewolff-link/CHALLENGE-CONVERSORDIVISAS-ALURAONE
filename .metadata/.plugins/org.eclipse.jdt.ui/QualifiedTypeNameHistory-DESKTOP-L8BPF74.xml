@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="bybank.test.TestCuentas"/>
+<fullyQualifiedTypeName name="bytebank.test.Tributacion"/>
+<fullyQualifiedTypeName name="br.com.bytebank.banco.modelo.Funcionario"/>
+<fullyQualifiedTypeName name="br.com.bytebank.banco.modelo.Cuenta"/>
+<fullyQualifiedTypeName name="br.com.bytebank.banco.modelo.Gerente"/>
+<fullyQualifiedTypeName name="br.com.bytebank.banco.modelo.CuentaCorriente"/>
+<fullyQualifiedTypeName name="br.com.bytebank.banco.modelo.Cliente"/>
+</qualifiedTypeNameHistroy>

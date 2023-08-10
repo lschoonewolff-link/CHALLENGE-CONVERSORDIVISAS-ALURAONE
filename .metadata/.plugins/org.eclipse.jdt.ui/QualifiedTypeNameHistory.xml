@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="bybank.test.TestCuentas"/>
+    <fullyQualifiedTypeName name="bytebank.test.Tributacion"/>
+    <fullyQualifiedTypeName name="br.com.bytebank.banco.modelo.Funcionario"/>
+    <fullyQualifiedTypeName name="br.com.bytebank.banco.modelo.Gerente"/>
+    <fullyQualifiedTypeName name="br.com.bytebank.banco.modelo.CuentaAhorros"/>
+    <fullyQualifiedTypeName name="br.com.bytebank.banco.modelo.GuardadorDeCuentas"/>
+    <fullyQualifiedTypeName name="java.util.Vector"/>
+    <fullyQualifiedTypeName name="java.util.Collection"/>
+    <fullyQualifiedTypeName name="java.lang.Comparable"/>
+    <fullyQualifiedTypeName name="br.com.bytebank.banco.modelo.Cuenta"/>
+    <fullyQualifiedTypeName name="br.com.bytebank.banco.modelo.CuentaCorriente"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.Comparator"/>
+    <fullyQualifiedTypeName name="java.util.Collections"/>
+    <fullyQualifiedTypeName name="java.lang.foreign.Linker.Option.CaptureCallState"/>
+</qualifiedTypeNameHistroy>

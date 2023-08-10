@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;br.com.bytebank.banco.test.TestLiberia&apos; to &apos;TestLibreria&apos;&#x0D;&#x0A;- Original project: &apos;bytebank-biblioteca&apos;&#x0D;&#x0A;- Original element: &apos;br.com.bytebank.banco.test.TestLiberia&apos;&#x0D;&#x0A;- Renamed element: &apos;br.com.bytebank.banco.test.TestLibreria&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;TestLiberia&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;br.com.bytebank.banco.test{TestLiberia.java[TestLiberia" matchStrategy="1" name="TestLibreria" qualified="false" references="true" similarDeclarations="false" stamp="1689624538398" textual="false" version="1.0"/>
+</session>
