@@ -95,11 +95,14 @@
 		<item key="JarManifestWizardPage.MANIFEST_LOCATION" value=""/>
 		<item key="JarManifestWizardPage.SEAL_JAR" value="false"/>
 		<list key="JarPackageWizardPage.DESTINATION_NAMES_ID">
+			<item value="ChallengeConversorDivisasConsola/conversorDivisasConsola-ejecutable.jar"/>
+			<item value="ChallengeConversorDivisasConsola\conversorConsolaDivisas-ejecutable.jar"/>
+			<item value="ChallengeConversorDivisasConsola/conversorConsolaDivisas-exportado.jar"/>
 			<item value="byteBank-heredado/bytebank-exportado.jar"/>
 		</list>
 	</section>
 	<section name="RefactoringWizard.preview">
-		<item key="width" value="600"/>
+		<item key="width" value="630"/>
 		<item key="height" value="400"/>
 	</section>
 	<section name="org.eclipse.ltk.ui.refactoring.settings">
@@ -139,5 +142,8 @@
 	</section>
 	<section name="JavaEditorCodeMiningConfigurationBlock">
 		<item key="expanded0" value="true"/>
+	</section>
+	<section name="WorkingSetModelAwareSelectionDialog">
+		<item key="ShowVisibleOnly" value="true"/>
 	</section>
 </section>
